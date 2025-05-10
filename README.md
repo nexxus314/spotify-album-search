@@ -4,7 +4,7 @@
 
 A **vibrant** React app that lets you search for your favorite artists and explore their albums using the **Spotify API**!  
 
-⭐ **Built with love** following [Ellie's](https://github.com/ellie) amazing tutorial!  
+⭐ **Built with love** following [Ellie's](https://github.com/exrlla) amazing tutorial!  
 
 ---
 
