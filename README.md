@@ -1,6 +1,6 @@
 # 🎵 Spotify Album Search App 🎵  
 
-![Spotify Album Search App](https://i.imgur.com/JKvzW9m.png)  
+![Spotify Album Search App](https://imgur.com/qvdqtsc)  
 
 A **vibrant** React app that lets you search for your favorite artists and explore their albums using the **Spotify API**!  
 
@@ -90,7 +90,7 @@ Also thanks to:
 
 ---
 
-Made with **❤️** & **🎶** by [Your Name]!  
+Made with **❤️** & **🎶** by Nexxus!  
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/your-username/spotify-album-search?color=purple&style=flat-square)  
 ![GitHub stars](https://img.shields.io/github/stars/your-username/spotify-album-search?style=social)  
